@@ -1,16 +1,20 @@
-## Hi there 👋
+## Terminal is initializing...
 
-<!--
-**kaishira/kaishira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Everything that lives is designed to end. We are perpetually trapped in a never-ending spiral of life and death.
 
-Here are some ideas to get you started:
+Sync Ratio
+-----------------------------------------
+| Skill              | Efficiency Level | Notes                          |
+|---------------------|------------------|--------------------------------|
+| **Ruby**           | 90%              | No mistake! |
+| **C**              | 85%              | Confidence is key      |
+| **Rust**           | 50%              | New things doesn't hurt  |
+| **Operating Systems** | 75%           | I hope one day I'm gonna understand it      |
+-----------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If existence is erased in an instant, who will remember the fleeting spark we called life? 
+Will the stars mourn us, or will the void remain indifferent?
+
+``` bash
+> ruby end_of_the_world.rb
+```
