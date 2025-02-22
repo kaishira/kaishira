@@ -7,9 +7,9 @@ Sync Ratio
 | Skill              | Efficiency Level | Notes                          |
 |---------------------|------------------|--------------------------------|
 | **Ruby**           | 90%              | No mistake! |
-| **C**              | 85%              | Confidence is key      |
-| **Rust**           | 50%              | New things doesn't hurt  |
-| **Operating Systems** | 75%           | I hope one day I'm gonna understand it      |
+| **C**              | 85%              | Noice!     |
+| **Rust**           | 50%              | Replace it!  |
+| **Operating Systems** | 75%           | Studying!      |
 -----------------------------------------
 
 If existence is erased in an instant, who will remember the fleeting spark we called life? 
